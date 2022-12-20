@@ -1,2 +1,2 @@
-# Portafolio
-Personal portafolio
+# Petgram
+Aplicacion que simula instagram pero con animales
